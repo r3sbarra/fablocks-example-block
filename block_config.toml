@@ -1,0 +1,6 @@
+name = "self_contained"
+version = "0.0.1"
+template_router = "router"
+schemas = ["schemas"]
+requirements = ["sqlmodel"]
+extra_block_settings = "settings"
